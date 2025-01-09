@@ -16,7 +16,7 @@
 - **JPA (Java Persistence API)**: Para la interacción con la base de datos.
 - **Gutendex API**: Para obtener información de libros de dominio público.
 
-##Algunas capturas:
+## Algunas capturas:
 ![image](https://github.com/user-attachments/assets/7738e173-8ab2-4b8f-b684-b59cb0027527)
 
 ![image](https://github.com/user-attachments/assets/7c050aa3-ed48-47e2-b3ae-1a6d0a818cde)
